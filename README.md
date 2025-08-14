@@ -3,7 +3,7 @@
 </h1> 
 
 <img align="right" height="380" src="https://i.imgur.com/XMcfV3W.png">
-<p align="justify">I graduated in History in 2019, but I am transitioning to a career in Software Development. My first opportunity arose from the B3 Inclua+ program in partnership with AdaTech, where I learned backend development in Java and several other technologies, including Spring Boot, Selenium, JUnit, Database, Eclipse, Microservices, Agile Methodologies, and more. I continue to specialize more and more. My hobbies include playing with my dogs, playing tabletop RPGs, and reading books.</p>
+<p align="justify">I graduated in History in 2019, but I am transitioning to a career in Software Development. I am now studying Systems Analysis and Development at UNISINOS.  My first opportunity arose from the B3 Inclua+ program in partnership with AdaTech, where I learned backend development in Java and several other technologies, including Spring Boot, Selenium, JUnit, Database, Eclipse, Microservices, Agile Methodologies, and more. I continue to specialize more and more. My hobbies include playing with my dogs, playing tabletop RPGs, and reading books.</p>
 
 ### Connect with me
 
