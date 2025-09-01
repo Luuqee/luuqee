@@ -12,7 +12,7 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luuqee&show_icons=true&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luuqee&show_icons=true&count_private=true&hide=issues&bg_color=000000&title_color=a40024&text_color=ffffff&icon_color=e78998&border_color=a40024&border_radius=3)
 
 ### My Tech Stack
 <div style="display: inline_block"><br>
